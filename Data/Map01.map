@@ -1,0 +1,37 @@
+[Map]
+*Collision		Data/MapC01.gfx
+*FrontLayer		Data/MapL01.gfx
+*BackLayer		Data/MapL02.gfx
+**ScrollX		0.1
+**ScrollY		0.1
+
+*Object			Player
+**Position		64	52
+
+*Object			Rock
+**Position		160	218
+
+*Object			Rock
+**Position		400	216
+
+*Object			Rock
+**Position		708	168
+
+*Object			Rock
+**Position		1070	64
+
+*Object			Rock
+**Position		1276	136
+
+*Object			Rock
+**Position		1646	88
+
+*Object			Rock
+**Position		1676	88
+
+*Object			Rock
+**Position		1706	88
+
+*Object			Rock
+**Position		1910	152
+
